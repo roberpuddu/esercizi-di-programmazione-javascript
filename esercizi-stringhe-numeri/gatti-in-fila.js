@@ -17,3 +17,12 @@
 
   http://www.imparareaprogrammare.it
 */
+var cats = 50;
+var Math.ceil = 10;
+
+var 50 = Math.ceil 5;
+50 % 10 = 0;
+
+
+console.log('cats');
+console.log('Math.ceil');
